@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Geo City weather",
+      "deployedLink": "https://amandeepsandhu13.github.io/geo-city-weather/",
+      "image": "/images/geo-city-weather.png",
+      "repoLink": "https://github.com/amandeepsandhu13/geo-city-weather"
+    },
+    {
+      "id": 2,
+      "title": "Travel blog",
+      "deployedLink": "https://amandeepsandhu13.github.io/travel-diaries-blog/",
+      "image": "/images/project-travelBlog.png",
+      "repoLink": "https://github.com/amandeepsandhu13/travel-diaries-blog"
+    },
+    {
+      "id": 3,
+      "title": "Project Task Management Board",
+      "deployedLink": "https://amandeepsandhu13.github.io/awesomeKanban-Task-board/",
+      "image": "/images/Project-task-managment.png",
+      "repoLink": "https://github.com/amandeepsandhu13/awesomeKanban-Task-board"
+    },
+    {
+      "id": 4,
+      "title": "Back end for my e-commerce website",
+      "deployedLink": "https://drive.google.com/file/d/1Fl5cixdTgown9yuOVor8EQTPEqoVYQR3/view",
+      "image": "/images/bookish-sniffle.png",
+      "repoLink": "https://github.com/amandeepsandhu13/bookish_sniffle"
+    },
+    {
+      "id": 5,
+      "title": "Employee Tracker",
+      "deployedLink": "https://drive.google.com/file/d/1larHoBsy9BuWJ8QOfnAzx0cm7DQI7mZ_/view5",
+      "image": "/images/Employee-tracker.png",
+      "repoLink": "https://github.com/amandeepsandhu13/employee_tracker_CMS"
+    }
+   
+  ]
+  
