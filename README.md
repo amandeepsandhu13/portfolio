@@ -67,13 +67,14 @@ To run the project locally:
 
 2. **Open your browser and navigate to:**
 
-    ```
     http://localhost:5173/
-    ```
+    
 
 ## Deployment
 
-To deploy this project on Netlify:
+https://portfolio-l9ir.onrender.com/
+
+To deploy this project on Render:
 
 1. **Ensure the build command is set to `npm run build`.**
 2. **Set the publish directory to `build`.**
