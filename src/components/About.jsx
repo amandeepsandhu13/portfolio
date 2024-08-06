@@ -14,7 +14,7 @@ const About = () => {
             <Card.Body>
               <h2 className="my-4 text-center text-info">About Me</h2>
               <p className="text-justify">
-                Hello! I’m Amandeep Kaur Sandhu, a passionate and driven Full-Stack Developer with a strong background in Java, React, Spring Boot. With 2 years of experience in the tech industry, I specialize in creating robust and scalable applications that solve real-world problems. My journey in software development has allowed me to work on diverse projects, including E-commerce web applications.
+                Hello! I’m Amandeep Kaur Sandhu, a passionate and driven Full-Stack Developer with a strong background in Java, React, Spring Boot. With 3 years of experience in the tech industry, I specialize in creating robust and scalable applications that solve real-world problems. My journey in software development has allowed me to work on diverse projects, including E-commerce web applications.
               </p>
               <p className="text-justify">
                 I thrive in collaborative environments and am always eager to learn new technologies and methodologies. My approach to development is user-centric, focusing on delivering high-quality, efficient, and maintainable code. 
